@@ -2,20 +2,29 @@
 
 This API provides functionality for user management, authentication, and admin operations.
 
-## Setup
+## Install Dependencies
 
-1. Install dependencies:
+To install the necessary dependencies, run the following command:
 
    ```bash
    npm install
    
-2.Set up a .env file in the root directory with the following content:
-PORT=5001
-CONNECTION_STRING=<your_mongodb_connection_string>
-ACCESS_TOKEN_SECRET_KEY=<your_jwt_secret_key>
+## Setup
 
-3.Start the server:
+2. Set up a `.env` file in the root directory with the following content:
+   ```env
+   PORT=5001
+   CONNECTION_STRING=<your_mongodb_connection_string>
+   ACCESS_TOKEN_SECRET_KEY=<your_jwt_secret_key>
+
+
+## Start the Server
+
+To start the server, run the following command:
+
+```bash
 npm run dev
+
 
 ## Routes
 
