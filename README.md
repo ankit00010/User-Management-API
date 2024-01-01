@@ -5,9 +5,8 @@ This API provides functionality for user management, authentication, and admin o
 ## Install Dependencies
 
 To install the necessary dependencies, run the following command:
-
-   ```bash
-   npm install
+    ```bash
+          npm install
    
 ## Setup
 
