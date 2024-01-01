@@ -9,9 +9,9 @@ To install the necessary dependencies, open your terminal and run the following 
 
 ## Set up a `.env` file in the root directory with the following content:
 
-PORT=5001
-CONNECTION_STRING=<your_mongodb_connection_string>
-ACCESS_TOKEN_SECRET_KEY=<your_jwt_secret_key>
+PORT=5001 <br/>
+CONNECTION_STRING=<your_mongodb_connection_string><br/>
+ACCESS_TOKEN_SECRET_KEY=<your_jwt_secret_key><br/>
 
 
 ## Start the Server
