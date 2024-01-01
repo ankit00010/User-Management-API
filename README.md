@@ -9,11 +9,13 @@ To install the necessary dependencies, open your terminal and run the following 
 ```bash
  npm install
 
-2. Set up a `.env` file in the root directory with the following content:
-   ```env
-   PORT=5001
-   CONNECTION_STRING=<your_mongodb_connection_string>
-   ACCESS_TOKEN_SECRET_KEY=<your_jwt_secret_key>
+
+## Set up a `.env` file in the root directory with the following content:
+
+```env
+PORT=5001
+CONNECTION_STRING=<your_mongodb_connection_string>
+ACCESS_TOKEN_SECRET_KEY=<your_jwt_secret_key>
 
 
 ## Start the Server
