@@ -4,11 +4,11 @@ This API provides functionality for user management, authentication, and admin o
 
 ## Install Dependencies
 
-To install the necessary dependencies, run the following command:
+To install the necessary dependencies, open your terminal and run the following command:
+
     ```bash
-          npm install
-   
-## Setup
+    npm install
+
 
 2. Set up a `.env` file in the root directory with the following content:
    ```env
